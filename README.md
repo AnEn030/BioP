@@ -1,4 +1,4 @@
-# BioP
+# Open-source 3D Bioprinter
 
 This project arises from my doctoral thesis from the University of Rome "Tor Vergata" and is aimed to continues it.
 
