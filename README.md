@@ -6,5 +6,5 @@ My Thesis titeled "Development of an open-source bio-printer with multiple print
 
 Currently, this repository only provides the Marlin configuration.h and Configuration_adv.h files of the open source 3D Bioprinter.
 
-After finalizing the thesis all files necessary for the construciton will be published.
+After finalizing the thesis all files necessary for the construciton will be published. Estimated in 16.03.2021 
 
